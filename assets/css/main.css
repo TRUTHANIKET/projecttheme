@@ -1097,7 +1097,7 @@ section {
 .faq .accordion-body {
   padding: 0 30px 25px 60px;
   border: 0;
-  background: rgba(14, 29, 52, 0.03);
+  background: rgba(0, 0, 0, 0.03);
   border-radius: 5px;
 }
 
@@ -1116,7 +1116,7 @@ section {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(14, 29, 52, 0.7);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 .testimonials .section-header {
@@ -1258,7 +1258,7 @@ section {
   text-align: center;
   margin-bottom: 20px;
   background: #fff;
-  border: 1px solid rgba(14, 29, 52, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 .team .member img {
@@ -1294,7 +1294,7 @@ section {
 }
 
 .team .member .social a {
-  color: rgba(14, 29, 52, 0.5);
+  color: rgba(0, 0, 0, 0.5);
   transition: 0.3s;
 }
 
@@ -1390,8 +1390,8 @@ section {
 }
 
 .horizontal-pricing .buy-btn:hover {
-  background: #406aff;
-  border-color: #406aff;
+  background: #000000;
+  border-color: #000000;
 }
 
 .horizontal-pricing .featured {
@@ -1588,7 +1588,7 @@ section {
   padding: 0;
   margin-bottom: 0;
   font-size: 14px;
-  color: rgba(14, 29, 52, 0.8);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .contact .php-email-form {
