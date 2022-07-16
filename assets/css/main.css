@@ -75,7 +75,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #001973;
+  color: #000000;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
@@ -531,7 +531,7 @@ section {
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #fff;
-    background: rgba(13, 66, 255, 0.8);
+    background: rgba(32, 66, 187, 0.8);
   }
 
   .navbar .dropdown ul,
@@ -818,7 +818,7 @@ section {
 }
 
 .services .card a {
-  color: #001973;
+  color: #000000;
   transition: 0.3;
 }
 
@@ -901,7 +901,7 @@ section {
 .features .features-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #001973;
+  color: #000000;
 }
 
 .features .features-item ul {
@@ -1919,7 +1919,7 @@ section {
 
 .footer .footer-links ul i {
   padding-right: 2px;
-  color: rgba(13, 66, 255, 0.8);
+  color: rgba(146, 13, 255, 0.8);
   font-size: 12px;
   line-height: 0;
 }
